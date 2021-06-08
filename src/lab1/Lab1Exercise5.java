@@ -24,7 +24,7 @@ public class Lab1Exercise5 {
         
     }
         System.out.println("sum of first  "+n+"  natural number is  "+sum);
-       
+       System.out.println("hi");
         
 
     }
